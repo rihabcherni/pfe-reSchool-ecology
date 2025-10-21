@@ -32,49 +32,25 @@ La plateforme permet :
 
 ### Interface et navigation
 - Accueil  
-![Accueil](./screenshots/accueil.png)
-
-- Login + logo  
-![Login + Logo](./screenshots/login_logo.png)
+![Accueil](./screenshots/1-accueil.png)
 
 - Login  
-![Login](./screenshots/login.png)
-
-- Champ obligatoire login  
-![Champ obligatoire login](./screenshots/champ_obligatoire_login.png)
+![Login](./screenshots/2-login.PNG)
 
 - Mauvais mot de passe  
-![Mauvais mot de passe](./screenshots/mauvais_mot_de_passe.png)
-
-- Test login  
-![Test login](./screenshots/test_login.png)
-
-- Test login faux email  
-![Test login faux email](./screenshots/test_login_faux_email.png)
+![Mauvais mot de passe](./screenshots/3-mauvais_mot_de_passe.png)
 
 ---
 
 ### Profil et gestion des utilisateurs
 - Affichage page profile  
-![Profile](./screenshots/affichage_page_profile.png)
+![Profile](./screenshots/4-profil.png)
 
 - Dark profile  
-![Dark Profile](./screenshots/dark_profile.png)
+![Dark Profile](./screenshots/5-dark_profile.png)
 
-- Modifier profile  
-![Modifier profile](./screenshots/modifier_profile.png)
-
-- Profile update  
-![Profile update](./screenshots/profile_update.png)
-
-- Profil + mot de passe + logout  
-![Profil + mdp + logout](./screenshots/profil_mdp_logout.png)
-
-- Profil + mot de passe + logout 2  
-![Profil + mdp + logout 2](./screenshots/profil_mdp_logout_2.png)
-
-- Validation update profile  
-![Validation update profile](./screenshots/validation_update_profile.png)
+- logout  
+![logout](./screenshots/6-logout.png)
 
 ---
 
