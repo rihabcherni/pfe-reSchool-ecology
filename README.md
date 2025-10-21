@@ -107,10 +107,10 @@ La plateforme permet :
 ![Interface dashboard compteur](./screenshots/18-interface_dashboard_compteur.png)
 
 - Total dechet collecte mois annee  
-![Total dechet collecte mois annee](./screenshots/19-total_dechet_collecte_mois_annee.png)
+![Total dechet collecte mois annee](./screenshots/19-total_dechet_collecte_mois_annee.PNG)
 
 - Total dechet vendus par mois  
-![Total dechet vendus par mois](./screenshots/20-total_dechet_vendus_par_mois.png)
+![Total dechet vendus par mois](./screenshots/20-total_dechet_vendus_par_mois.PNG)
 
 ---
 
