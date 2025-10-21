@@ -52,74 +52,77 @@ La plateforme permet :
 - logout  
 ![logout](./screenshots/6-logout.png)
 
+- affichage profile gestionnaire menu
+![logout](./screenshots/6-affichage-profile-gestionnaire-menu.png)
+
 ---
 
 ### Gestion des ouvriers
 - Afficher details ouvrier  
-![Afficher details ouvrier](./screenshots/afficher_details_ouvrier.png)
+![Afficher details ouvrier](./screenshots/7-afficher_details_ouvrier.png)
 
 - Ajout nouveau ouvrier  
-![Ajout nouveau ouvrier](./screenshots/ajout_nouveau_ouvrier.png)
+![Ajout nouveau ouvrier](./screenshots/8-ajout_nouveau_ouvrier.png)
 
 - Tableau ouvrier  
-![Tableau ouvrier](./screenshots/tableau_ouvrier.png)
+![Tableau ouvrier](./screenshots/9-tableau_ouvrier.png)
 
 ---
 
 ### Gestion des camions
 - Camion supprimer  
-![Camion supprimer](./screenshots/camion_supprimer.png)
+![Camion supprimer](./screenshots/10-camion_supprimer.png)
 
 - Camion succès supprim  
-![Camion succès supprim](./screenshots/camion_succes_supprim.png)
+![Camion succès supprim](./screenshots/11-camion_succes_supprim.png)
 
 ---
 
 ### Gestion des poubelles et zones
 - Tableau poubelle  
-![Tableau poubelle](./screenshots/tableau_poubelle.png)
+![Tableau poubelle](./screenshots/12-tableau_poubelle.png)
 
 - Tableau zone travail  
-![Tableau zone travail](./screenshots/tableau_zone_travail.png)
+![Tableau zone travail](./screenshots/13-tableau_zone_travail.png)
 
 - Tableau group poubelle  
-![Tableau group poubelle](./screenshots/tableau_group_poubelle.png)
+![Tableau group poubelle](./screenshots/14-tableau_group_poubelle.png)
 
 - Tableau details zone travail  
-![Tableau details zone travail](./screenshots/tableau_details_zone_travail.png)
+![Tableau details zone travail](./screenshots/15-tableau_details_zone_travail.png)
 
 ---
 
 ### Gestion des pannes
 - Gestion-pannes-camions  
-![Gestion pannes camions](./screenshots/gestion-pannes-camions.png)
+![Gestion pannes camions](./screenshots/16-gestion-pannes-camions.png)
 
 - Gestion-pannes-poubelles  
-![Gestion pannes poubelles](./screenshots/gestion-pannes-poubelles.png)
+![Gestion pannes poubelles](./screenshots/17-gestion-pannes-poubelles.png)
 
 ---
 
 ### Dashboard et statistiques
 - Interface dashboard compteur  
-![Interface dashboard compteur](./screenshots/interface_dashboard_compteur.png)
+![Interface dashboard compteur](./screenshots/18-interface_dashboard_compteur.png)
 
 - Total dechet collecte mois annee  
-![Total dechet collecte mois annee](./screenshots/total_dechet_collecte_mois_annee.png)
+![Total dechet collecte mois annee](./screenshots/19-total_dechet_collecte_mois_annee.png)
 
 - Total dechet vendus par mois  
-![Total dechet vendus par mois](./screenshots/total_dechet_vendus_par_mois.png)
+![Total dechet vendus par mois](./screenshots/20-total_dechet_vendus_par_mois.png)
 
 ---
 
 ### Carte et géolocalisation
 - Map avant clique  
-![Map avant clique](./screenshots/map_avant_clique.png)
+![Map avant clique](./screenshots/21-map_avant_clique.png)
 
 - Map après clique  
-![Map après clique](./screenshots/map_apres_clique.png)
+![Map après clique](./screenshots/22-map_apres_clique.png)
 
 - Map clique card affichage detail etablissement par zone  
-![Map clique card](./screenshots/map_clique_card_affichage_detail_etablissement_par_zone.png)
+![Map clique card](./screenshots/23-map_clique_card_affichage_detail_etablissement_par_zone.png)
 
 ---
 
