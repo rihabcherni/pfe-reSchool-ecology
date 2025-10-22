@@ -39,15 +39,18 @@ The platform enables:
   </div>
 </div>
 <div align="center">
-    <div style="display:inline-block; width:45%; vertical-align:top;">
-        <p>Login Page – User Authentication Form</p>
-        <img src="./screenshots/2-login.PNG" width="49%">
-    </div>
-    <div style="display:inline-block; width:45%; vertical-align:top;">
-        <p>Error Message Displayed After Wrong Password Attempt</p>
-        <img src="./screenshots/3-mauvais_mot_de_passe.png" width="49%">
-    </div>
-</div>
+  <table>
+    <tr>
+        <td align="center">
+            <p>Login Page – User Authentication Form</p>
+            <img src="./screenshots/2-login.PNG" width="49%">
+        </td>
+        <td align="center">
+            <p>Error Message Displayed After Wrong Password Attempt</p>
+            <img src="./screenshots/3-mauvais_mot_de_passe.png" width="49%">
+        </td>
+    </tr>
+</table>
 
 ---
 
