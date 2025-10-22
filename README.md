@@ -27,7 +27,16 @@ The platform enables:
 - Integration of messages and alerts for success or error notifications
 
 ---
+## Key Skills
+- React.js  
+- Laravel / PHP  
+- MySQL  
+- Git & GitHub  
+- Web Application Development  
+- JIRA / Scrum  
+- Agile Methodologies
 
+---
 ## Project Screenshots
 
 ### Interface and Navigation
@@ -163,16 +172,16 @@ The platform enables:
 ### Dashboard and Statistics
 <table>
     <tr>
-        <td align="center">
+        <td align="center" colspan="2">
             <p>Dashboard – Counters Interface</p>
             <img src="./screenshots/18-interface_dashboard_compteur.png" width="100%">
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <p>Total Collected Waste by Month and Year</p>
             <img src="./screenshots/19-total_dechet_collecte_mois_annee.PNG" width="100%">
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <p>Total Sold Waste by Month</p>
             <img src="./screenshots/20-total_dechet_vendus_par_mois.PNG" width="100%">
@@ -195,19 +204,10 @@ The platform enables:
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center" colspan="2">
             <p>Map – Displaying School Details by Zone</p>
             <img src="./screenshots/23-map_clique_card_affichage_detail_etablissement_par_zone.png" width="100%">
         </td>
     </tr>
 </table>
 ---
-
-## Key Skills
-- React.js  
-- Laravel / PHP  
-- MySQL  
-- Git & GitHub  
-- Web Application Development  
-- JIRA / Scrum  
-- Agile Methodologies
