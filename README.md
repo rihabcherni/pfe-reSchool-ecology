@@ -59,51 +59,46 @@ The platform enables:
     <tr>
         <td align="center">
             <p>User Profile Page Display</p>
-            <img src="./screenshots/4-profil.PNG" width="49%">
+            <img src="./screenshots/4-profil.PNG" width="100%">
         </td>
         <td align="center">
             <p>Dark Mode Profile Page</p>
-            <img src="./screenshots/5-dark_profile.PNG" width="49%">
+            <img src="./screenshots/5-dark_profile.PNG" width="100%">
         </td>
     </tr>
     <tr>
         <td align="center">
             <p>User Logout Action</p>
-            <img src="./screenshots/6-logout.png" width="49%">
+            <img src="./screenshots/6-logout.png" width="100%">
         </td>
         <td align="center">
             <p>Administrator Profile Menu View</p>
-            <img src="./screenshots/6-affichage-profile-gestionnaire-menu.png" width="49%">
+            <img src="./screenshots/6-affichage-profile-gestionnaire-menu.png" width="60%">
         </td>
     </tr>
 </table>
 
-
 ---
 
 ### Worker Management
-<div align="center">
-
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Worker Details View</p>
-    <img src="./screenshots/7-afficher_details_ouvrier.png" width="49%">
-  </div>
-
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Add New Worker Form</p>
-    <img src="./screenshots/8-ajout_nouveau_ouvrier.png" width="49%">
-  </div>
-
-</div>
-
-<div align="center">
-
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Workers Table Overview</p>
-    <img src="./screenshots/9-tableau_ouvrier.png" width="49%">
-  </div>
-
-</div>
+<table>
+    <tr>
+        <td align="center">
+            <p>Worker Details View</p>
+            <img src="./screenshots/7-afficher_details_ouvrier.png" width="100%">
+        </td>
+        <td align="center">
+            <p>Add New Worker Form</p>
+            <img src="./screenshots/8-ajout_nouveau_ouvrier.png" width="100%">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <p>Workers Table Overview</p>
+            <img src="./screenshots/9-tableau_ouvrier.png" width="100%">
+        </td>
+    </tr>
+</table>
 
 ---
 
