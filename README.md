@@ -55,26 +55,29 @@ The platform enables:
 ---
 
 ### Profile and User Management
-<div align="center">
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>User Profile Page Display</p>
-    <img src="./screenshots/4-profil.PNG" width="49%">
-  </div>
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Dark Mode Profile Page</p>
-    <img src="./screenshots/5-dark_profile.PNG" width="49%">
-  </div>
-</div>
-<div align="center">
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>User Logout Action</p>
-    <img src="./screenshots/6-logout.png" width="49%">
-  </div>
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Administrator Profile Menu View</p>
-    <img src="./screenshots/6-affichage-profile-gestionnaire-menu.png" width="49%">
-  </div>
-</div>
+<table>
+    <tr>
+        <td align="center">
+            <p>User Profile Page Display</p>
+            <img src="./screenshots/4-profil.PNG" width="49%">
+        </td>
+        <td align="center">
+            <p>Dark Mode Profile Page</p>
+            <img src="./screenshots/5-dark_profile.PNG" width="49%">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <p>User Logout Action</p>
+            <img src="./screenshots/6-logout.png" width="49%">
+        </td>
+        <td align="center">
+            <p>Administrator Profile Menu View</p>
+            <img src="./screenshots/6-affichage-profile-gestionnaire-menu.png" width="49%">
+        </td>
+    </tr>
+</table>
+
 
 ---
 
