@@ -35,40 +35,32 @@ The platform enables:
 <div align="center">
   <div style="display:inline-block; width:45%; vertical-align:top;">
     <p>Home Page – Dashboard Overview</p>
-    <img src="./screenshots/1-accueil.png" width="49%">
+    <img src="./screenshots/1-accueil.png" width="100%">
   </div>
-
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Login Page – User Authentication Form</p>
-    <img src="./screenshots/2-login.PNG" width="49%">
-  </div>
-
 </div>
-
 <div align="center">
-
-  <div style="display:inline-block; width:45%; vertical-align:top;">
-    <p>Error Message Displayed After Wrong Password Attempt</p>
-    <img src="./screenshots/3-mauvais_mot_de_passe.png" width="49%">
-  </div>
-
+    <div style="display:inline-block; width:45%; vertical-align:top;">
+        <p>Login Page – User Authentication Form</p>
+        <img src="./screenshots/2-login.PNG" width="49%">
+    </div>
+    <div style="display:inline-block; width:45%; vertical-align:top;">
+        <p>Error Message Displayed After Wrong Password Attempt</p>
+        <img src="./screenshots/3-mauvais_mot_de_passe.png" width="49%">
+    </div>
 </div>
 
 ---
 
 ### Profile and User Management
 <div align="center">
-
   <div style="display:inline-block; width:45%; vertical-align:top;">
     <p>User Profile Page Display</p>
     <img src="./screenshots/4-profil.png" width="49%">
   </div>
-
   <div style="display:inline-block; width:45%; vertical-align:top;">
     <p>Dark Mode Profile Page</p>
     <img src="./screenshots/5-dark_profile.png" width="49%">
   </div>
-
 </div>
 
 <div align="center">
