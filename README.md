@@ -210,4 +210,3 @@ The platform enables:
         </td>
     </tr>
 </table>
----
