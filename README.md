@@ -1,136 +1,240 @@
 # 🌱 RE-School Ecology
 
-## Description du projet
-**RE-School Ecology** est une application web développée dans le cadre d’un stage chez **Reschool Education** (Février – Juin 2022), visant à **gérer intelligemment les déchets dans les établissements scolaires**.
+## Project Description
+**RE-School Ecology** is a web application developed during an internship at **Reschool Education** (February – June 2022), aimed at **intelligently managing waste in schools**.
 
-La plateforme permet :
-- Le **suivi en temps réel** du niveau de remplissage des poubelles connectées.  
-- L’**optimisation des itinéraires de collecte** pour les agents de propreté.  
-- La **sensibilisation des élèves aux enjeux écologiques** à travers une interface interactive.  
+The platform enables:
+- **Real-time monitoring** of connected trash bin fill levels.  
+- **Optimized collection routes** for sanitation workers.  
+- **Raising students’ awareness** about ecological issues through an interactive interface.  
 
 ---
 
-## Stack technique
+## Tech Stack
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6)  
 - **Backend:** Laravel (PHP), MySQL  
-- **Outils & Méthodologie:** GitHub, JIRA, Scrum, Méthodes agiles  
+- **Tools & Methodology:** GitHub, JIRA, Scrum, Agile Methods  
 
 ---
 
-## Fonctionnalités principales
-- Tableau de bord interactif
-- Gestion des ouvriers et camions
-- Gestion des poubelles et des zones de travail
-- Statistiques et suivi des déchets collectés et vendus
-- Système de login sécurisé avec validation
-- Interface responsive et mode sombre
-- Intégration des messages et alertes pour actions réussies ou erreurs
+## Main Features
+- Interactive dashboard
+- Management of workers and trucks
+- Management of bins and work zones
+- Statistics and tracking of collected and sold waste
+- Secure login system with validation
+- Responsive interface and dark mode
+- Integration of messages and alerts for success or error notifications
 
 ---
 
-## Screenshots du projet
+## Project Screenshots
 
-### Interface et navigation
-- Accueil  
-![Accueil](./screenshots/1-accueil.png)
+### Interface and Navigation
+<div align="center">
 
-- Login  
-![Login](./screenshots/2-login.PNG)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Home Page – Dashboard Overview</p>
+    <img src="./screenshots/1-accueil.png" width="100%">
+  </div>
 
-- Mauvais mot de passe  
-![Mauvais mot de passe](./screenshots/3-mauvais_mot_de_passe.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Login Page – User Authentication Form</p>
+    <img src="./screenshots/2-login.PNG" width="100%">
+  </div>
 
----
+</div>
 
-### Profil et gestion des utilisateurs
-- Affichage page profile  
-![Profile](./screenshots/4-profil.png)
+<div align="center">
 
-- Dark profile  
-![Dark Profile](./screenshots/5-dark_profile.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Error Message Displayed After Wrong Password Attempt</p>
+    <img src="./screenshots/3-mauvais_mot_de_passe.png" width="100%">
+  </div>
 
-- logout  
-![logout](./screenshots/6-logout.png)
-
-- affichage profile gestionnaire menu
-![logout](./screenshots/6-affichage-profile-gestionnaire-menu.png)
-
----
-
-### Gestion des ouvriers
-- Afficher details ouvrier  
-![Afficher details ouvrier](./screenshots/7-afficher_details_ouvrier.png)
-
-- Ajout nouveau ouvrier  
-![Ajout nouveau ouvrier](./screenshots/8-ajout_nouveau_ouvrier.png)
-
-- Tableau ouvrier  
-![Tableau ouvrier](./screenshots/9-tableau_ouvrier.png)
+</div>
 
 ---
 
-### Gestion des camions
-- Camion supprimer  
-![Camion supprimer](./screenshots/10-camion_supprimer.png)
+### Profile and User Management
+<div align="center">
 
-- Camion succès supprim  
-![Camion succès supprim](./screenshots/11-camion_succes_supprim.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>User Profile Page Display</p>
+    <img src="./screenshots/4-profil.png" width="100%">
+  </div>
 
----
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Dark Mode Profile Page</p>
+    <img src="./screenshots/5-dark_profile.png" width="100%">
+  </div>
 
-### Gestion des poubelles et zones
-- Tableau poubelle  
-![Tableau poubelle](./screenshots/12-tableau_poubelle.png)
+</div>
 
-- Tableau zone travail  
-![Tableau zone travail](./screenshots/13-tableau_zone_travail.png)
+<div align="center">
 
-- Tableau group poubelle  
-![Tableau group poubelle](./screenshots/14-tableau_group_poubelle.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>User Logout Action</p>
+    <img src="./screenshots/6-logout.png" width="100%">
+  </div>
 
-- Tableau details zone travail  
-![Tableau details zone travail](./screenshots/15-tableau_details_zone_travail.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Administrator Profile Menu View</p>
+    <img src="./screenshots/6-affichage-profile-gestionnaire-menu.png" width="100%">
+  </div>
 
----
-
-### Gestion des pannes
-- Gestion-pannes-camions  
-![Gestion pannes camions](./screenshots/16-gestion-pannes-camions.png)
-
-- Gestion-pannes-poubelles  
-![Gestion pannes poubelles](./screenshots/17-gestion-pannes-poubelles.png)
+</div>
 
 ---
 
-### Dashboard et statistiques
-- Interface dashboard compteur  
-![Interface dashboard compteur](./screenshots/18-interface_dashboard_compteur.png)
+### Worker Management
+<div align="center">
 
-- Total dechet collecte mois annee  
-![Total dechet collecte mois annee](./screenshots/19-total_dechet_collecte_mois_annee.PNG)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Worker Details View</p>
+    <img src="./screenshots/7-afficher_details_ouvrier.png" width="100%">
+  </div>
 
-- Total dechet vendus par mois  
-![Total dechet vendus par mois](./screenshots/20-total_dechet_vendus_par_mois.PNG)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Add New Worker Form</p>
+    <img src="./screenshots/8-ajout_nouveau_ouvrier.png" width="100%">
+  </div>
+
+</div>
+
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Workers Table Overview</p>
+    <img src="./screenshots/9-tableau_ouvrier.png" width="100%">
+  </div>
+
+</div>
 
 ---
 
-### Carte et géolocalisation
-- Map avant clique  
-![Map avant clique](./screenshots/21-map_avant_clique.png)
+### Truck Management
+<div align="center">
 
-- Map après clique  
-![Map après clique](./screenshots/22-map_apres_clique.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Truck Deletion Confirmation Prompt</p>
+    <img src="./screenshots/10-camion_supprimer.png" width="100%">
+  </div>
 
-- Map clique card affichage detail etablissement par zone  
-![Map clique card](./screenshots/23-map_clique_card_affichage_detail_etablissement_par_zone.png)
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Truck Deletion – Success Message Display</p>
+    <img src="./screenshots/11-camion_succes_supprim.png" width="100%">
+  </div>
+
+</div>
 
 ---
 
-## Compétences clés
+### Bin and Work Zone Management
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Bins Table Overview</p>
+    <img src="./screenshots/12-tableau_poubelle.png" width="100%">
+  </div>
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Work Zones Table Overview</p>
+    <img src="./screenshots/13-tableau_zone_travail.png" width="100%">
+  </div>
+
+</div>
+
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Bin Groups Table Overview</p>
+    <img src="./screenshots/14-tableau_group_poubelle.png" width="100%">
+  </div>
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Work Zone Details Table Overview</p>
+    <img src="./screenshots/15-tableau_details_zone_travail.png" width="100%">
+  </div>
+
+</div>
+
+---
+
+### Malfunction Management
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Truck Malfunction Management</p>
+    <img src="./screenshots/16-gestion-pannes-camions.png" width="100%">
+  </div>
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Bin Malfunction Management</p>
+    <img src="./screenshots/17-gestion-pannes-poubelles.png" width="100%">
+  </div>
+
+</div>
+
+---
+
+### Dashboard and Statistics
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Dashboard – Counters Interface</p>
+    <img src="./screenshots/18-interface_dashboard_compteur.png" width="100%">
+  </div>
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Total Collected Waste by Month and Year</p>
+    <img src="./screenshots/19-total_dechet_collecte_mois_annee.PNG" width="100%">
+  </div>
+
+</div>
+
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Total Sold Waste by Month</p>
+    <img src="./screenshots/20-total_dechet_vendus_par_mois.PNG" width="100%">
+  </div>
+
+</div>
+
+---
+
+### Map and Geolocation
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Map View Before Click Action</p>
+    <img src="./screenshots/21-map_avant_clique.png" width="100%">
+  </div>
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Map View After Click Action</p>
+    <img src="./screenshots/22-map_apres_clique.png" width="100%">
+  </div>
+
+</div>
+
+<div align="center">
+
+  <div style="display:inline-block; width:45%; vertical-align:top;">
+    <p>Map – Displaying School Details by Zone</p>
+    <img src="./screenshots/23-map_clique_card_affichage_detail_etablissement_par_zone.png" width="100%">
+  </div>
+
+</div>
+
+---
+
+## Key Skills
 - React.js  
 - Laravel / PHP  
 - MySQL  
 - Git & GitHub  
-- Développement d’applications web  
+- Web Application Development  
 - JIRA / Scrum  
-- Méthodes agiles
+- Agile Methodologies
